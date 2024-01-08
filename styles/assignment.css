@@ -1,0 +1,45 @@
+/* common shared link */
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* body related style */
+body {
+    background: #FFF;
+}
+/* header related style */
+      /* first banner content style */
+.banner-first-greeting {
+    color: #FFF;
+    text-align: center;
+
+    font-size: 32px;
+
+    font-weight: 400;
+
+
+}
+
+.banner-first-tittle {
+    color: #FFF;
+    text-align: center;
+
+    font-size: 72px;
+
+    font-weight: 900;
+
+}
+  /* section related style */
+  .banner-first{
+    background-image: url("../resources/Banner\ Image.png");
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    /* background-size: cover; */
+    height: 900px;
+    margin: 50px 140px 0 140px;
+    background-size: contain;
+    
+    
+    
+    
+  }
