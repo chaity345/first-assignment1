@@ -27,9 +27,9 @@ body {
 }
 
 /* body related style */
-/* body { */
-    /* background: #FFF; */
-/* } */
+body {
+    background: #FFF;
+}
 
 /* header related style */
 /* first banner content style */
@@ -205,12 +205,11 @@ body {
     background: #F00;
     border: 0;
 }
+
 /* main section related style */
 
- /* main{ */
-    /* padding: 0px 0px 120px 140px; */
-/* }  */
-.main-first1{
+
+.main-first1 {
     border-radius: 16px;
     /* width: 10px; */
     /* height: 30px; */
@@ -218,10 +217,10 @@ body {
 }
 
 
-.picture1 li{
-    display:inline;
-}
-.picture2 li {
-    display:inline;
+.picture1 li {
+    display: inline;
 }
 
+.picture2 li {
+    display: inline;
+}
