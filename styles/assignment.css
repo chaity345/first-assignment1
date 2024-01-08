@@ -224,3 +224,35 @@ body {
 .picture2 li {
     display: inline;
 }
+
+.main-first-tittle {
+    color: #F00;
+
+    font-size: 24px;
+
+    font-weight: 500;
+
+}
+
+.main-first-subtittle {
+    color: #070211;
+
+    font-size: 48px;
+
+    font-weight: 900;
+
+    text-transform: capitalize;
+}
+
+.main-first-des {
+    color: rgba(7, 2, 17, 0.60);
+
+    font-size: 20px;
+
+    font-weight: 400;
+    padding-right: 500px;
+
+}
+.main-first{
+    padding-left: 140px;
+}
