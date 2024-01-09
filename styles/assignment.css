@@ -357,7 +357,7 @@ input[type="text"] {
 /* footer related style */
 .foot {
     background-color: #070211;
-    height: 500px;
+    height: 800px;
     background-size: cover;
     margin-left: 0;
     margin-right: 0;
@@ -372,7 +372,7 @@ input[type="text"] {
     /* padding-top: 120px;  */
     /* justify-content: center; */
     justify-content: center;
-    margin: 30px 10px 40px 10px;
+    margin: 30px 10px 70px 10px;
     padding: 10px 0px 50px 0px;
 
 
@@ -415,6 +415,8 @@ input[type="text"] {
     text-align: center;
     padding-top: 20px;
     padding: 48px 0px 48px 0px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .foot-images a {
