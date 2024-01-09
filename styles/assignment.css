@@ -82,6 +82,7 @@ body {
     margin-top: 140px;
     /* margin: 0; */
     /* padding-top: 0; */
+    
 }
 
 /* second banner content style  */
@@ -123,11 +124,11 @@ body {
 .banner3-tittle {
     color: #FFF;
 
-    font-size: 64px;
+    font-size: 50px;
 
-    font-weight: 900;
+    font-weight: 600;
 
-    letter-spacing: 7.04px;
+    letter-spacing: 5px;
     padding: 126px 900px 0px 126px;
     margin-bottom: 20px;
 }
